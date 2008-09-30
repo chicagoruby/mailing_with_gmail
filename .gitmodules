@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/action_mailer_optional_tls"]
+	path = vendor/plugins/action_mailer_optional_tls
+	url = http://github.com/collectiveidea/action_mailer_optional_tls.git
