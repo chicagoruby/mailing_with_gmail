@@ -1,0 +1,6 @@
+h2. Description
+
+This is a small/quick application to show the functionality of rails using gmail w/ ActionMailer.
+
+To be used as presentation at ChicagoRuby.org 10.18.2008
+
