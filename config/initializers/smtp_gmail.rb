@@ -4,8 +4,8 @@ ActionMailer::Base.smtp_settings = {
   :tls            => true,
   :address        => "smtp.gmail.com",
   :port           => "587",
-  :domain         => "reactioncontrol.com",
+  :domain         => APP_CONFIG['gmail']['domain'],
   :authentication => :plain,
-  :user_name      => "testing@reactioncontrol.com",
-  :password       => "password4testing"
+  :user_name      => APP_CONFIG['gmail']['user_name'],
+  :password       => APP_CONFIG['gmail']['password']
 }
