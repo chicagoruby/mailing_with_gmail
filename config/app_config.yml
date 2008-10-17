@@ -1,4 +1,4 @@
 gmail:
-  user_name: chicagoruby@reactioncontrol.com
+  user_name: chicagoruby@reactioncontrol.com # make sure that you add the @domainname.com
   password: pa55w0rd
   domain: reactioncontrol.com
