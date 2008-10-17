@@ -4,3 +4,10 @@ This is a small/quick application to show the functionality of rails using gmail
 
 To be used as presentation at ChicagoRuby.org 10.18.2008
 
+h2. Getting Started
+
+* git clone git://github.com/mattpolito/mailing_with_gmail.git
+* cd mailing_with_gmail
+* git submodule init
+* git submodule update
+
